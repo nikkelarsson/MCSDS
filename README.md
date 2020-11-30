@@ -39,6 +39,6 @@ sudo eopkg install openjdk-8
 2. Use `chmod +x mcservertool.sh` to enable execution rights 
 3. Execute `./mcservertool.sh` to download the server.jar
 4. Once the download is complete, two files should be in your current folder `server.jar` and `launch.sh`
-5. Use `launch.sh` to start the server (the script enables exe-rights to the `launch.sh` automatically)
+5. Execute `./launch.sh` to start the server
 
-Happy minecrafting!
+Happy Minecrafting!
